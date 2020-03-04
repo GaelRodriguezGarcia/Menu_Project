@@ -1,0 +1,55 @@
+html{
+    background-color: #4E0C16;
+}
+.row{
+    display: flex;
+    float: left;
+    width: 100%;
+    background-color: white;
+}
+.col1{
+    display: flex;
+    float: left;
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+}
+.col2{
+    display: flex;
+    float: right;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.Header_Title {
+    font-family: "Decotura ICG";
+    font-size: xx-large;
+}
+.auto-style1 {
+    font-family: "Decotura ICG";
+    font-size: xx-small;
+}
+.auto-style2 {
+    vertical-align: top;
+}
+
+
+<body style="margin: 4px; background-color: #4E0C16; border-color: #C52D37">
+
+    <p class="auto-style1" style="height: 112px; border: thick #C52D37
+     none">&nbsp;s<img alt="" class="auto-style2" height="100" src="Header_Red.jpg"
+      width="600" />&nbsp; </p>
