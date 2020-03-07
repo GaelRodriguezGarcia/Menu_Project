@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap');
 html{
-    background-image: url("fire.jpg");
+    background-image: url("photo-of-string-lights-749386.jpg");
     position: relative;
     font-family: Architects Daughter;
     font-size: 19px;
@@ -39,8 +39,31 @@ html{
 li{
     list-style-type: none;
 }
+a{
+    color: black;
+}
+a:hover{
+    color: rgb(255, 159, 80);
+}
 
-
+div.col2{
+border: none;
+padding: 5px;
+font: 28px aerial;
+width: 79%;
+height: 592px;
+overflow-y: scroll;
+}
+h3{
+    display: inline-block;
+    height: 60px;
+    width: 10000px;
+    border: solid black;
+}
+p{
+    margin-top: 150px;
+    margin-right: 500px;
+}
 
 
 
